@@ -952,3 +952,13 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+/*-------------------------------------------------------------
+# Plus Sign for Counters in Facts section
+-------------------------------------------------------------*/
+.plus-sign:before {
+content: "+";
+}
+.satis:after {
+content: "+";
+}
